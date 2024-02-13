@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqroma_projects_org_site=self.webpackChunkqroma_projects_org_site||[]).push([[552],{7616:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
