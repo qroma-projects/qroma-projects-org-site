@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkqroma_projects_org_site=self.webpackChunkqroma_projects_org_site||[]).push([[264],{2080:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
